@@ -73,7 +73,7 @@ const Categories = ({}) => {
           return (
             <View
               key={index}
-              className="mr-6 rounded-2xl w-[202px] justify-center py-5 px-5 bg-[#FBF9F7]"
+              className="mr-6 rounded-2xl w-[202px] justify-center pb-5 pt-3 px-5 bg-[#FBF9F7]"
             >
               <View className="gap-0.5">
                 <Text className="text-[16px]">{item.categoryTitle}</Text>
