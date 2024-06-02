@@ -47,6 +47,10 @@ const HomeScreen = () => {
             />
           </View>
         </View>
+
+        <View>
+          <Categories />
+        </View>
       </ScrollView>
     </SafeAreaView>
   );
