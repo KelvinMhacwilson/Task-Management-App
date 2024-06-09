@@ -24,8 +24,8 @@ This application offers a comprehensive solution for efficient task management, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KelvinLinnaeus/rn-assignment3-11028723.git
-   cd rn-assignment3-11028723
+   git clone https://github.com/KelvinMhacwilson/Task-Management-App.git
+   cd Task-Management-App
    ```
 
 2. Install the dependencies:
