@@ -1,4 +1,4 @@
-# rn-assignment2-11028723
+# Task Management App
 
 ## Description
 
@@ -14,10 +14,6 @@ This application offers a comprehensive solution for efficient task management, 
 6. **Button**: Triggering actions or events.
 7. **FlatList or SectionList**: Rendering lists of tasks.
 8. **Image**: Displaying icons and images within the app.
-
-## Student ID
-
-11028723
 
 ## Screenshot
 
